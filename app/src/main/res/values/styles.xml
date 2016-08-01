@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="text_one_title">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/lx_text_one_black</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>
